@@ -1,4 +1,4 @@
-Hi, my name is **Kameron Ronald**. I am currently studying *Computer Engineering* at the *University of Manitoba*. I love coding, engineering design, and video games (cuz who doesn't). During my spare time I like to work on personal project, which can be found here of course! All of my projects on github are completely free and open source, you feel free to look around and give them a try yourself.
+Hi, my name is **Kameron Ronald**. I am currently studying *Computer Engineering* at the *University of Manitoba*. I love coding, engineering design, and video games (cuz who doesn't). During my spare time I like to work on personal project, which can be found here of course! All of my projects on github are completely free and open source, so feel free to look around and give them a try yourself.
 
 My interests include:
 - web development
