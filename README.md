@@ -1,17 +1,15 @@
-Hi, my name is **Kameron Ronald**. I am currently studying *Computer Engineering* at the *University of Manitoba*. I love coding, engineering design, and video games (cuz who doesn't). During my spare time I like to work on personal project, which can be found here of course! All of my projects on github are completely free and open source, so feel free to look around and give them a try yourself.
+# Kameron Roanld
+Hi! Welcome to my personal GitHub account. I'm a student in Computer Engineering at the University of Manitoba with a passion for electronics and computer engineering. Here you can find an assortment of personal projects. 
 
-My interests include:
-- web development
-- game design
-- embedded systems
+## Education
+**Bachelor of Science in Computer Engineering**  
+Univeristy of Manitoba
 
-Coding languages I have experience in:
-- python
-- c++
-- java
-- php
-- html & javascript
+## Projects
+Check out some of my work for the [University of Manitoba's Association of Tiny Tractors](https://github.com/umatt-ece) student design team.
 
-You can find me on LinkdIn at https://www.linkedin.com/in/kameron-ronald-788032225
+Other than that, feel free to browse my personal [repositories](https://github.com/Kameroni33?tab=repositories).
 
-If you would like to collaborate with me, please reach out. You can contact me at khr675@gmail.com
+## Connect with Me
+- LinkdIn: [Kameron Ronald](https://www.linkedin.com/in/kameron-ronald-788032225)
+- Email: [khr675@gmail.com]()
